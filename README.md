@@ -11,7 +11,7 @@ The same API endpoint can then be called continuously to see if the CD is warm.
 
 While the CD is warming a "Bad request" is returned. Once the CD is warm a 200 is returned from the API end point. At this point the app gateway can add the CD back into the pool.
 
-As the API enpoint returns a 200 once its warm and will never start the warm up process again until the CD restarts there is no chance of a denial of service attack on the public URL. Worst case scenario is that someone warms up your CD for you.
+As the API enpoint returns a 200 once its warm and will never start the warm up process again until the CD restarts, there is no chance of a denial of service attack on the public URL. Worst case scenario is that someone warms up your CD for you.
 
 ## Features
 
