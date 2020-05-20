@@ -23,6 +23,7 @@ As the API enpoint returns a 200 once its warm and will never start the warm up 
 - Specify sitemap download timeout
 - Specify sitemap.xml URL
 - Configurable verbose logging
+- A bacground job is started for each configured site for parallel processing.
 
 ## Future features
 
