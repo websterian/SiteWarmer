@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {22C2499D-202D-4514-BC4C-8CC276679FB2}
+database: master
+path: /sitecore/system/Settings/Warmup/Warmup Settings/Storefront  - warmup setting
+parent: {BF42D418-BD18-412E-B7EB-55F7DF917C86}
+name: Storefront  - warmup setting
+master: {00000000-0000-0000-0000-000000000000}
+template: {CFEDA2F2-E702-4AB3-9594-79066ED45159}
+templatekey: Site Warmup Setting
+
+----version----
+language: en
+version: 1
+revision: 3724871e-f46b-43cd-aced-cb9b25feb7b6
+
+----field----
+field: {B4D6CC15-D7FD-4264-8AEC-93389B700DA9}
+name: Verbose logging
+key: verbose logging
+content-length: 1
+
+1
+----field----
+field: {8412D07B-E817-4C92-A959-3BB5CD7D51DA}
+name: Sitename
+key: sitename
+content-length: 10
+
+Storefront
+----field----
+field: {6C8C86AB-0F6F-4BD3-B66E-3FF63F268C2A}
+name: Sitemap URL
+key: sitemap url
+content-length: 38
+
+https://sxa.storefront.com/sitemap.xml
+----field----
+field: {A9F69ADF-6914-41B2-A4BC-BA70ECE74A98}
+name: Sitemap download timeout
+key: sitemap download timeout
+content-length: 4
+
+3600
+----field----
+field: {1B23E3ED-7DEF-4BD6-A219-09A700D93707}
+name: Percentage of site to warm up
+key: percentage of site to warm up
+content-length: 1
+
+1
+----field----
+field: {590464F7-4A5B-4AF6-9128-19FF630BBEFF}
+name: Only visit URLs contains the following keywords
+key: only visit urls contains the following keywords
+content-length: 28
+
+category|product|search|cart
+----field----
+field: {E3F60000-8402-4B05-A8C8-7CA14274D85E}
+name: Warmup items
+key: warmup items
+content-length: 77
+
+{C2F91AB6-DBCF-499D-9000-178B8C5C1388}|{4C0697FA-B00D-494F-9B51-8B11F7FE92F4}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200515T185645Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3724871e-f46b-43cd-aced-cb9b25feb7b6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200518T213934Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

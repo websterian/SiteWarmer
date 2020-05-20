@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {BF42D418-BD18-412E-B7EB-55F7DF917C86}
+database: master
+path: /sitecore/system/Settings/Warmup/Warmup Settings
+parent: {E3450300-72BD-40FB-B984-114215805113}
+name: Warmup Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {2EAF4497-3683-4D92-98F0-6BF14C586103}
+templatekey: Warmup Settings
+
+----version----
+language: en
+version: 1
+revision: c55fa375-1467-40d8-9430-a25b6e71f27e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200518T164004Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c55fa375-1467-40d8-9430-a25b6e71f27e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200518T164004Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
