@@ -41,7 +41,7 @@ As the API enpoint returns a 200 once its warm and will never start the warm up 
 
 1. In sitecore go to /sitecore/system/Settings/Warmup/Warmup Settings
 2. Add a new Warm up Site Warmup Setting item per site, there is already a couple examples. You can delete them if you dont need them.
-3. you should have a warm up item for site you want to warm, should look like this...
+3. There should be a warm up item for each site you want to warm, should look like this...
 ![Example configuration items](https://github.com/websterian/SiteWarmer/blob/master/Setup.jpg)
 
 #### To run the warmup
